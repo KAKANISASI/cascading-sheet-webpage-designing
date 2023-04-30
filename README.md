@@ -1,0 +1,3 @@
+# cascading-sheet-webpage-designing
+There truly is no right or wrong way to create Cascading Style Sheets (CSS) for your JavaScript applications, but using an organized approach can make the task go more quickly and produce better results with fewer errors.
+Decide how you want to place elements onscreen. For example, determine where you want to place a menu. If the site will use headers and footers, you need to consider how these elements will appear. The main content should appear in the center of the page, but many sites also rely on sidebars to provide details about items the user selects. Here’s a typical example of a page design:
